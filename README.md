@@ -16,7 +16,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building robust web applications using the **MERN** stack.
+- 🔭 I’m currently building robust web applications using the **MERN,PERN** stack.
+- To be candid,i am not confined into a percious stack or language ,I love to work with high level language to  low level language(Assembly,c)
 - 🌱 I’m currently exploring the mobile world by learning **React Native** & **Expo**.
 - 🐍 I also have a solid background working with **Python** & **FastAPI**.
 - 💬 Ask me about **React, Next.js, MongoDB, Express, or TailwindCSS**.
