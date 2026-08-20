@@ -3,11 +3,11 @@
   # Hi 👋, I'm Rafi!
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=MERN+Full-Stack+Developer;Python+Enthusiast;Currently+Learning+React+Native;Building+Amazing+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=MERN,PERN+Full-Stack+Developer;LANGCHAIN+LANGGRAPH+AI MICROSERVICES SAAS WEB DEVELOPER;Python+Enthusiast; Currently+Learning+React+Native;Building+Amazing+Web+Apps" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    A passionate Full-Stack Developer specializing in the MERN stack. I love building scalable applications, solving complex problems, and constantly learning new technologies to level up my skills!
+    A passionate Full-Stack Developer specializing in the MERN,PERN,SERN stack. I love building scalable applications, solving complex problems, and constantly learning new technologies to level up my skills!
   </p>
 
 </div>
@@ -20,7 +20,7 @@
 - To be candid,i am not confined into a percious stack or language ,I love to work with high level language to  low level language(Assembly,c)
 - 🌱 I’m currently exploring the mobile world by learning **React Native** & **Expo**.
 - 🐍 I also have a solid background working with **Python** & **FastAPI**.
-- 💬 Ask me about **React, Next.js, MongoDB, Express, or TailwindCSS**.
+- 💬 Ask me about **React, Next.js, MongoDB, Express, or TailwindCSS,Langchain,Langraph,Docker,Microservices **.
 - 📫 How to reach me: **[nextjs061@gmail.com](mailto:nextjs061@gmail.com)**
 
 ---
