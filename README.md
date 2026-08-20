@@ -3,7 +3,7 @@
   # Hi 👋, I'm Rafi!
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=MERN+%7C+PERN+Full-Stack+Developer;AI+Microservices+%7C+LangChain+%7C+LangGraph;Python+%7C+C+%7C+C++%7C+Rust+%7C+Go;React+Native+Explorer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=MERN+%7C+PERN+Full-Stack+Developer;AI+Microservices+%7C+LangChain+%7C+LangGraph;Python+%7C+(C++)+%7C+C++%7C+Rust+%7C+Go;React+Native+Explorer;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
   <p align="center">
